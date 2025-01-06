@@ -2,6 +2,8 @@
 
 한 페이지에 전체 연도가 표시되는 간단한 인쇄용 달력입니다.
 
+🌐 **[웹에서 바로 사용하기](https://jkf87.github.io/annual-calendar/)**
+
 ## 특징
 - 한 페이지에 1년 전체 달력 표시
 - 모든 용지 크기에 자동 맞춤
@@ -11,7 +13,7 @@
 - 순수 HTML/CSS/JavaScript로 구현
 
 ## 사용 방법
-1. `index.html` 파일을 브라우저에서 엽니다.
+1. [웹 버전](https://jkf87.github.io/annual-calendar/)을 사용하거나 `index.html` 파일을 브라우저에서 엽니다.
 2. 기본적으로 현재 연도의 달력이 표시됩니다.
 3. 다른 연도를 보려면 URL에 `?year=연도` 를 추가하세요. (예: `index.html?year=2025`)
 4. 인쇄하려면:
@@ -30,6 +32,8 @@ MIT License
 
 A simple printable calendar that displays the entire year on a single page.
 
+🌐 **[Use Online](https://jkf87.github.io/annual-calendar/)**
+
 ## Features
 - Full year calendar on a single page
 - Auto-fits to any paper size
@@ -39,7 +43,7 @@ A simple printable calendar that displays the entire year on a single page.
 - Pure HTML/CSS/JavaScript implementation
 
 ## How to Use
-1. Open `index.html` in a browser
+1. Use the [online version](https://jkf87.github.io/annual-calendar/) or open `index.html` in a browser
 2. Calendar shows current year by default
 3. For different years, add `?year=YYYY` to URL (e.g., `index.html?year=2025`)
 4. To print:
